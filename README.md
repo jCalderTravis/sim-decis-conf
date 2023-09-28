@@ -4,7 +4,7 @@ Simulate perceptual decisions and confidence based on time varying evidence. Thi
 
 To get started with the code, read the initial comments for the function `simulateDataSet`.
 
-Author: Joshua Calder-Travis, j.calder.travis@gmail.com
+Author: [Joshua Calder-Travis](https://scholar.google.com/citations?user=-9asgxcAAAAJ&hl=en)
 
 ## History 
 Reviewed all code 07/09/2023
