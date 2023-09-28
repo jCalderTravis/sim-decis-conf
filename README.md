@@ -2,7 +2,7 @@
 
 Simulate perceptual decisions and confidence based on time varying evidence. This code was used for the manuscript [Expressions for Bayesian confidence of drift diffusion observers in dynamic stimuli tasks](https://www.biorxiv.org/content/10.1101/2020.02.25.965384v3.abstract). 
 
-To get started with the code, read the initial comments for the function ``simulateDataSet''.
+To get started with the code, read the initial comments for the function `simulateDataSeta`.
 
 Author: Joshua Calder-Travis, j.calder.travis@gmail.com
 
